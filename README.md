@@ -3,7 +3,10 @@ These are just random projects I have made. Don't expect them to be good i just 
 Any prerequisites required for the programs to work will be mentioned below: 
 
     WordleLetterCount.py: 
-    WordleLetterCount.py requires wordledic.txt to function
+    Requires wordledic.txt to function.
+
+    VotingSystem.py:
+    Requires voterID.py to function but you can also add voterIDgen.py if you want.
 
 
 If your seeing this hope you have a nice day. o/
