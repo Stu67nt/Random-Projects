@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," LCD 16 x 2"
+"Rpot2",1,"1 kΩ Potentiometer"
+"S1, S2, S3, S4, S5, S8, S7",7," Pushbutton"
+"R1",1,"1 kΩ Resistor"
+"S6, S9",2," Slideswitch"
