@@ -76,3 +76,4 @@ def audio_player():
 
 
 cls()
+audio_player()
