@@ -8,11 +8,15 @@ Any prerequisites required for the programs to work will be mentioned below:
     Requires wordledic.txt to function.
 
     VotingSystem.py:
-    Requires voterID.py to function but you can also add voterIDgen.py if you want.
+    Requires voterID.py to function. You can also add voterIDgen.py if you want.
 
     Chess.py:
-    Requires installation of chess module using "pip install chess" .
-    
+    Requires installation of chess module .
+
+    Soundboard.py
+    Requires installation of pygame module as some more lightweight modules refused to work for me.
+    Also you need a folder where you will be storing all the audio files for the program to use. 
+    You can set the directory running the program itself.
 
 Any programs which require other files have been sorted into folders. Individual programs which dont require other files are not in folders.
 
