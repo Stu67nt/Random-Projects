@@ -76,4 +76,6 @@ def audio_player():
 
 
 cls()
-audio_player()
+
+while True:
+  audio_player()
